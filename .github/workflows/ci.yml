@@ -1,4 +1,4 @@
-oname: CI - Pruebas Unitarias
+name: CI - Prueba
 
 on:
   push:
